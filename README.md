@@ -4,6 +4,8 @@
 
 I am a full-stack web developer, electronic engineer and indie musician.
 
+For more than 10 years I was working and studying for Oil & Gas industry, but now I'm redirecting to the technological world. I see a lot of opportunities to boost my carrer to the next level as a software developer and, that's why I've been trainning about the most nowdays used technologies for web applications.
+
 Skills: Javascript | Typescript | React JS | Express JS, among others
 
 - 🔭 I’m currently working on a hotel management application as part of the final project of full stack development bootcamp. I'm part of group which is developing the project through scrum methodology. The project is being developed in TS, Ant design as style components and supabase.io as backend-database service provider.
