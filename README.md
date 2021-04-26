@@ -6,7 +6,10 @@ I am a full-stack web developer, electronic engineer and indie musician.
 
 Skills: Javascript | Typescript | React JS | Express JS, among others
 
-- 🔭 I’m currently working on a hotel management application as part of the final project of full stack development bootcamp. I'm part of group which is developing the project through scrum methodology. The project is being developed in TS, Ant design as style components and supabase.io as backend-database service provider. 
+- 🔭 I’m currently working on a hotel management application as part of the final project of full stack development bootcamp. I'm part of group which is developing the project through scrum methodology. The project is being developed in TS, Ant design as style components and supabase.io as backend-database service provider.
+
+- I'm starting to build an application for a start-up that plan to provide legal and technical advisory services for real state sector.
+
 - 🌱 I’m currently learning about supabase.io, ant design, UI/UX, among others 
 - 💬 Ask me about Web development with JS, React, Redux, Express and TS 
 - 📫 How to reach me: mapardo19@gmail.com 
