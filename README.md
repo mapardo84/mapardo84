@@ -4,7 +4,7 @@
 
 I am a full-stack web developer, electronic engineer and indie musician.
 
-For more than 10 years I was working and studying for Oil & Gas industry, but now I'm redirecting to the technological world. I see a lot of opportunities to boost my carrer to the next level as a software developer and, that's why I've been trainning about the most nowdays used technologies for web applications.
+For more than 10 years I was working and studying for Oil & Gas industry, but now I'm redirecting to the technological world. I see a lot of opportunities to boost my career to the next level as a software developer and, that's why I've been training about the most nowadays used technologies for web applications.
 
 Skills: Javascript | Typescript | React JS | Express JS, among others
 
