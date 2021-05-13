@@ -8,7 +8,7 @@ For more than 10 years I was working and studying for Oil & Gas industry, but no
 
 Skills: Javascript | Typescript | React JS | Express JS, among others
 
-- 🔭 I’m currently working on a hotel management application as part of the final project of full stack development bootcamp. I'm part of group which is developing the project through scrum methodology. The project is being developed in TS, Ant design as style components and supabase.io as backend-database service provider.
+- 🔭 I’ve just finished a hotel management application as part of the final project of full stack development bootcamp. I was working with a 10 members group through scrum methodology. The project was developed in TS, Ant design as style components and supabase.io as backend-database service provider.
 
 - I'm starting to build an application for a start-up that plan to provide legal and technical advisory services for real state sector.
 
